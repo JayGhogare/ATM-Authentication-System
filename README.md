@@ -21,5 +21,24 @@ If not → Access Denied
 3. Enter your PIN when asked
 4. Get authentication result
 
-## 👨‍💻 Author
+👨‍💻 Author
+
 Jay Ghogare
+
+🚀 Learning Python Today | Building AI Tomorrow 🤖
+
+💡 Passionate about Programming, AI/ML, and Technology.
+
+🌱 Continuously learning, building projects, and improving my coding skills every day.
+
+🎯 Goal: To become an AI/ML Engineer and create innovative solutions through technology.
+
+---
+
+⭐ If you found this project helpful, consider giving it a star!
+
+🤝 Suggestions and feedback are always welcome.
+
+📌 Check out my other repositories for more Python projects.
+
+🚀 More exciting projects coming soon!
