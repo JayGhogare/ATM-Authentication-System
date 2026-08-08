@@ -11,4 +11,3 @@ for i in range(3):
 
 if Password != Pin:
     print("Account is Locked after 3 Attempts")
-    
