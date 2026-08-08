@@ -24,7 +24,7 @@ If not → Access Denied
 
 👨‍💻 Author
 
-Jay Ghogare
+-Jay Ghogare
 
 🚀 Learning Python Today | Building AI Tomorrow 🤖
 
