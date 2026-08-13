@@ -10,7 +10,6 @@ A simple Python program that checks ATM PIN authentication using basic condition
   
 ## 💻 Tech Used
 - Python
-
 ## 🧠 Logic
 If entered PIN matches stored PIN → Access Granted  
 If not → Access Denied
