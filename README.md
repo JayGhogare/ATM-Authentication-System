@@ -8,7 +8,6 @@ A simple Python program that checks ATM PIN authentication using basic condition
 - Displays access granted or denied message
 - Beginner-friendly Python project
   
-
 ## 💻 Tech Used
 - Python
 
